@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Skill Name] Gem</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f0f0f0; }
+        .gem { font-size: 72px; margin: 20px 0; }
+        .skill { font-size: 24px; font-weight: bold; color: #333; }
+        .info { margin: 20px; padding: 10px; background-color: white; border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <div class="gem">[Gem Emoji]</div>
+    <div class="skill">[Skill Name]</div>
+    <div class="info">
+        <p>[Brief explanation of the skill]</p>
+        <p>Why it's important: [Importance of the skill]</p>
+        <p>Quick tip: [Practical tip related to the skill]</p>
+    </div>
+</body>
+</html>
